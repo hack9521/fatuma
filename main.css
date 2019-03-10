@@ -1,4 +1,4 @@
-.navbar{ background:#F97300;}
+.navbar{ background:#e5ddcc;}
 
 .nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
 
@@ -8,7 +8,7 @@
 
 .navbar-collapse{ justify-content: flex-end;}
 
-.navbar-toggler{  background:#fff !important;}
+.navbar-toggler{  background:#f442d7 !important; }
 /*header style*/
 .header{
  background-image: url('./images/index.jpeg');
